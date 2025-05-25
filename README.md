@@ -35,4 +35,4 @@
 
 ---
 
-[**Launch sinbin.exe →**](sinbin.exe/sinbin.html)
+[**Launch sinbin.exe →**](sinbin.html)
