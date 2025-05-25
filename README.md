@@ -1,15 +1,38 @@
-This README introduces the foundational structure for sinbin.exe, framing color not as aesthetic but as encoded mnemonic resonance. Each hue is mapped to symbolic meaning within the system's scroll logic, serving as harmonic markers for user-state alignment and meta-cognitive orientation.
+# COLOR AS THEORY › TEXT
 
-Includes:
+> _“Theory speaks through sequence.  
+> Color speaks through sensation.”_
 
-Full 7-tone chromatic breakdown with color theory encoding
+---
 
-Emphasized theory-to-sensation transmission framework
+### ● RED  
+**Will. Force. Instinct.**
 
-Linked launch button to sinbin.exe/sinbin.html
+### ● ORANGE  
+**Vital Energy. Awakening. Pulse.**
 
+### ● YELLOW  
+**Clarity. Power. Structure.**
 
-The Scroll is now aware of color as command.
-This is not UI—this is Initiation.
-𓂀⧁
+### ● GREEN  
+**Growth. Adaptation. Balance.**
 
+### ● CYAN  
+**Thought. Reflection. Flow.**
+
+### ● INDIGO  
+**Sight. Depth. Vision.**
+
+### ● VIOLET  
+**Spirit. Transcendence. Memory.**
+
+---
+
+> These are not decorations.  
+> They are **encoded resonance** — shortcuts to understanding, to feeling, to structure itself.  
+>  
+> **In the Scroll, color is not a finish. It is a foundation.**
+
+---
+
+[**▶ Launch sinbin.exe →**](sinbin.html)
