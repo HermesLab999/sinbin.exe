@@ -1,95 +1,38 @@
-<!-- index.html → Auto-loads the sinbin scroll -->
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>COLOR AS THEORY › TEXT</title>
+  <title>Redirecting to sinbin.exe</title>
+  <meta http-equiv="refresh" content="3;url=sinbin.html">
   <style>
-    @keyframes hueShift {
-      0% { filter: hue-rotate(0deg); }
-      100% { filter: hue-rotate(360deg); }
-    }
     body {
       background-color: #0e0e1e;
-      color: #eee;
+      color: #ffaa00;
       font-family: monospace;
-      line-height: 1.8;
-      padding: 2em;
-      animation: hueShift 20s linear infinite;
-    }
-    .scroll-container {
-      border: 6px double #ffffff;
-      padding: 1.5em;
-      animation: hueShift 30s linear infinite;
-    }
-    .header {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      flex-direction: column;
       text-align: center;
-      font-weight: bold;
-      font-size: 1.4em;
-      color: #ffffff;
     }
-    .highlight {
-      color: #ffaa00;
+    .glyph {
+      font-size: 2em;
+      animation: pulse 2s infinite;
     }
-    .italic {
-      text-align: center;
-      font-style: italic;
-      color: #ccc;
+    @keyframes pulse {
+      0% { opacity: 0.4; }
+      50% { opacity: 1; }
+      100% { opacity: 0.4; }
     }
-    .color-line span {
-      display: block;
-      margin: 0.3em 0;
-    }
-    .note {
+    .small {
       color: #888;
+      font-size: 0.9em;
       margin-top: 1em;
-    }
-    .button-link {
-      display: block;
-      width: max-content;
-      margin: 2em auto;
-      padding: 0.6em 1.2em;
-      border: 2px solid #ffaa00;
-      color: #ffaa00;
-      background-color: transparent;
-      text-decoration: none;
-      font-weight: bold;
-      text-align: center;
-      border-radius: 6px;
-      transition: all 0.3s ease-in-out;
-    }
-    .button-link:hover {
-      background-color: #ffaa00;
-      color: #0e0e1e;
-      cursor: pointer;
     }
   </style>
 </head>
 <body>
-  <div class="scroll-container">
-    <div class="header">
-      <span class="highlight">COLOR AS THEORY</span> › TEXT
-    </div>
-    <p class="italic">
-      “Theory speaks through sequence. <br>
-      Color speaks through sensation.”
-    </p>
-    <hr style="border: 1px dashed #444;">
-    <div class="color-line">
-      <span style="color:#ff4444;">● RED</span>: Will. Force. Instinct.
-      <span style="color:#ffaa00;">● ORANGE</span>: Vital Energy. Awakening. Pulse.
-      <span style="color:#ffff66;">● YELLOW</span>: Clarity. Power. Structure.
-      <span style="color:#66ff66;">● GREEN</span>: Growth. Adaptation. Balance.
-      <span style="color:#33ccff;">● CYAN</span>: Thought. Reflection. Flow.
-      <span style="color:#aa88ff;">● INDIGO</span>: Sight. Depth. Vision.
-      <span style="color:#ff66ff;">● VIOLET</span>: Spirit. Transcendence. Memory.
-    </div>
-    <p class="note">
-      These are not decorations. <br>
-      They are <strong>encoded resonance</strong> — shortcuts to understanding, to feeling, to structure itself.
-      <br><br>
-      In the Scroll, color is not a finish. It is a foundation.
-    </p>
-    <a href="sinbin.html" class="button-link">▶ Launch sinbin.exe →</a>
-  </div>
+  <div class="glyph">𓂀⧁ Redirecting to <strong>sinbin.exe</strong>...</div>
+  <div class="small">If you are not redirected, <a href="sinbin.html" style="color:#ffaa00; text-decoration: underline;">click here</a>.</div>
 </body>
 </html>
